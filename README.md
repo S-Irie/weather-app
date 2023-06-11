@@ -13,3 +13,7 @@
 |lottie-react|2.4.0|
 |eslint|8.38.0|
 |prettier|2.8.8|
+
+## 天気API
+- open weather map のAPIを利用しています。
+- 環境変数として、VITE_WEATHER_API_BASE_URLとVITE_WEATHER_API_KEYを指定します。
